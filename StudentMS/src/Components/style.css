@@ -1,0 +1,25 @@
+/* Login Page Background */
+.loginPage {
+    background-image: url("images/5172658.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* Ensures image fills the entire background */
+    /* Optional: Add a subtle gradient overlay for depth */
+    background-blend-mode: multiply; /* Adjust opacity to your preference */
+    opacity: 0.9; /* Adjust overall transparency of the background */
+  }
+  
+  /* Login Form Styling */
+  .loginForm {
+    background-color: rgba(0, 12, 88, 0.815); /* Adjust opacity for better readability */
+    color: white; /* Ensure text is clearly visible */
+    padding: 2rem; /* Add some padding for better spacing */
+    border-radius: 0.5rem; /* Subtle rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  }
+  .employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+  
